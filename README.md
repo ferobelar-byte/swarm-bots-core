@@ -80,3 +80,5 @@ Estado: ALERTA (excede límite de 40°C)
 - Mide espesores
 - Genera documentación para auditoría ISO
 
+© 2026 Fernando Obelar. Todos los derechos reservados.
+Licencia GPL-3.0: Debe mencionar al autor original.
