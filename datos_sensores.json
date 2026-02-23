@@ -1,0 +1,52 @@
+[
+  {
+    "timestamp": "2026-02-23T10:22:56.133995",
+    "robot_id": "DRONE_253",
+    "ubicacion": "Ducto D",
+    "sensor": "temperatura",
+    "valor": 26.8,
+    "unidad": "°C",
+    "limite": 40,
+    "estado": "NORMAL"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:56.136979",
+    "robot_id": "AQUABOT_499",
+    "ubicacion": "Ducto D",
+    "sensor": "humedad",
+    "valor": 48.77,
+    "unidad": "%",
+    "limite": 70,
+    "estado": "NORMAL"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:56.138854",
+    "robot_id": "AQUABOT_166",
+    "ubicacion": "Tanque C",
+    "sensor": "presion",
+    "valor": 89.55,
+    "unidad": "PSI",
+    "limite": 100,
+    "estado": "NORMAL"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:56.140700",
+    "robot_id": "DRONE_495",
+    "ubicacion": "Torre A",
+    "sensor": "vibracion",
+    "valor": 9.65,
+    "unidad": "mm/s",
+    "limite": 5,
+    "estado": "ALERTA"
+  },
+  {
+    "timestamp": "2026-02-23T10:22:56.142545",
+    "robot_id": "AQUABOT_357",
+    "ubicacion": "Campo E",
+    "sensor": "vibracion",
+    "valor": 1.72,
+    "unidad": "mm/s",
+    "limite": 5,
+    "estado": "NORMAL"
+  }
+]
